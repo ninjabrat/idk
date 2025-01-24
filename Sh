@@ -1,0 +1,3 @@
+mkdir custom-cursor
+cd custom-cursor
+git init
