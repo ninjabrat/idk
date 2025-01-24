@@ -1,0 +1,8 @@
+body {
+    cursor: url('https://upload.wikimedia.org/wikinews/en/0/0c/Google_logo_png.png'), auto;
+}
+
+/* Optional: Apply custom cursor to specific elements */
+h1 {
+    cursor: url('https://upload.wikimedia.org/wikinews/en/0/0c/Google_logo_png.png'), auto;
+}
